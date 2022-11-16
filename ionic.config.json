@@ -1,0 +1,7 @@
+{
+  "name": "kraze",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
